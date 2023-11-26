@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+Clampy.egg-info/PKG-INFO
+Clampy.egg-info/SOURCES.txt
+Clampy.egg-info/dependency_links.txt
+Clampy.egg-info/top_level.txt

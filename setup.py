@@ -7,6 +7,6 @@ setup(
     author="LittleBread69",
     author_email="chelouminatis+pypi@gmail.com",
     description="Clamp your vars",
-    url=""
+    url="https://github.com/LittleBread69/Clampy",
     license="MIT",
 )
