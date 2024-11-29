@@ -41,4 +41,4 @@ jobs:
     - name: Lint with MyPy
       run: |
         # runs with mypy
-        mypy --ignore-missing-imports --verbose .
+        mypy --ignore-missing-imports .
